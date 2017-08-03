@@ -1,0 +1,29 @@
+{
+  "name": "Leite Ilustrador",
+  "description": "Site para exibir meus trabalhos como ilustrador e manter contatos de serviços com clientes",
+  "main": "index.html",
+  "keywords": [
+    "leiteilustrador"
+  ],
+  "authors": [
+    "Wylliam Leite da Silva"
+  ],
+  "license": "MIT",
+  "homepage": "www.wylliam.com.br",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "gulp": "^3.9.1",
+    "font-awesome": "^4.7.0",
+    "bootstrap-sass": "^3.3.7",
+    "breakpoint-sass": "^2.7.1",
+    "sass-flex-mixin": "^1.0.3"
+  }
+}

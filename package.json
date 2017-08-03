@@ -1,0 +1,30 @@
+{
+  "name": "leite-ilustrador",
+  "version": "1.0.0",
+  "description": "Site pessoal para expor minhas ilustrações e manter contato com clientes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "leiteilustrador"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/wylliam-silva/leiteilustrador.git"
+  },
+  "author": "Wylliam Leite da Silva",
+  "license": "(MIT)",
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "gulp": "^3.9.1",
+    "gulp-ruby-sass": "^2.1.1",
+    "gulp-sass": "^3.1.0",
+    "gulp-watch": "^4.3.11",
+    "minimatch": "^3.0.4",
+    "sass": "^1.0.0-beta.2"
+  },
+  "dependencies": {
+    "gulp-sass": "^3.1.0"
+  }
+}
